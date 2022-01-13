@@ -1,5 +1,12 @@
-
-
+body{
+  
+    
+    height: 100%;
+    background-image: linear-gradient(rgba(253, 140, 253, 0.50), rgba(125, 0, 125, 0.95)), url(images/bg3.jpg);
+    background-size: cover;
+    background-position: center;
+ 
+}
 #main-container{
     display: grid;
     grid-template-rows: auto auto auto;
@@ -77,10 +84,6 @@
     color: lavenderblush;
     font-size: 1.3em;
 }
-li:hover>a{
-    background-color: #cbc3e3;
-    color: black;
-}
 
 
 #dropdwn-content{
@@ -95,11 +98,6 @@ li:hover>a{
 
 
 }
-#dropdwn-content>li>a{
-    text-decoration: none;
-    color: lavender;
-}
-
 
 #dropdwn-content>hr{
     color: #47036F;

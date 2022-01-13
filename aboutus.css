@@ -137,14 +137,10 @@ body{
     
 
 }
-#dropdwn-content>li>a{
-    text-decoration: none;
-    color: lavender;
-}
 
 #aboutus-title{
     text-align: center;
-    color: black;
+    color: white;
     text-transform: uppercase;
     font-size: 30px;
     padding: 1.5em;
